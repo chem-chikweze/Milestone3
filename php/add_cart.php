@@ -23,7 +23,7 @@ if ($conn->query($sql) === TRUE) {
 $CONSUMERID = $_POST['CUSTCARTID'];
 $PHONE = $_POST['ANIMALSCNAME'];
 $NAME = $_POST['PLANTSCNAME'];
-$sql = "INSERT INTO CART values ('$CUSTCARTID', '$ANIMALSCNAME', '$PLANTSCNAME)";
+$sql = "INSERT INTO CART values ($CUSTCARTID, $ANIMALSCNAME, $PLANTSCNAME);";
 
 
 #$sql = "SELECT * FROM Students where Username like 'amai2';";
