@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/c$
 <!-- Optional theme -->
@@ -13,37 +12,52 @@
 <?php
 require_once('db_setup.php');
 $sql = "USE cchikwez_1;";
+
 if ($conn->query($sql) === TRUE) {
    // echo "using Database tbiswas2_company";
 } else {
    echo "Error using  database: " . $conn->error;
 }
 
+
 // Query:
-$CONSUMERID = $_POST['CUSTCARTID'];
-$PHONE = $_POST['ANIMALSCNAME'];
-$NAME = $_POST['PLANTSCNAME'];
-$sql = "INSERT INTO CART values ('$CUSTCARTID', '$ANIMALSCNAME', '$PLANTSCNAME)";
-
-
-#$sql = "SELECT * FROM Students where Username like 'amai2';";
+$sql = "SELECT * FROM CART";
 $result = $conn->query($sql);
+if($result->num_rows > 0){
 
-if ($result === TRUE) {
-    echo "New record created successfully";
-} else {
-    echo "Error: " . $sql . "<br>" . $conn->error;
+?>
+   <table class="table table-striped">
+      <tr>
+         <th>CARTID</th>
+         <th>ANIMALSCNAME</th>
+         <th>PLANTSCNAME</th>
+      </tr>
+<?php
+$i =0;
+while($row = mysqli_fetch_array($result)){
+
+   ?>
+   <tr>          <td><?php echo $row['CUSTCARTID'];?></td>
+         <td><?php echo $row['ANIMALSCNAME']; ?></td>
+<td><?php echo $row['PLANTSCNAME']; ?></td>
+</tr>
+<?php
+$i++;
 }
-//$stmt = $conn->prepare("Select * from Students Where Username like ?");
-//$stmt->bind_param("s", $username);
-//$result = $stmt->execute();
-//$result = $conn->query($sql);
+?>
+</table>
+<?php
+}
+else {
+echo "Nothing to display";
+}
 ?>
 
+
+<a href = "http://betaweb.csug.rochester.edu/~cchikwez/"> Go Back </a>
 <?php
 $conn->close();
 ?>
 
 </body>
 </html>
-

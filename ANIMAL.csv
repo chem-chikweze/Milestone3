@@ -1,0 +1,101 @@
+ANIMALSCNAME,NAME,PRICE,AMOUNTSALE,AMOUNT,UNIT
+Mabuya spilogaster,African skink,90,42,78,error: Field 'good' not found
+Petaurus breviceps,"Glider, sugar",29,41,37,error: Field 'good' not found
+Cervus duvauceli,Swamp deer,24,69,77,error: Field 'good' not found
+Ephippiorhynchus mycteria,Jabiru stork,30,7,7,error: Field 'good' not found
+Ovis ammon,Red sheep,67,57,32,error: Field 'good' not found
+Butorides striatus,"Heron, green-backed",46,65,29,error: Field 'good' not found
+Lepus townsendii,White-tailed jackrabbit,3,51,77,error: Field 'good' not found
+Pycnonotus nigricans,"Bulbul, black-fronted",94,95,63,error: Field 'good' not found
+Castor fiber,European beaver,62,12,95,error: Field 'good' not found
+Leptoptilos crumeniferus,"Stork, marabou",13,9,76,error: Field 'good' not found
+Anastomus oscitans,"Stork, openbill",28,6,60,error: Field 'good' not found
+Streptopelia senegalensis,Laughing dove,5,23,37,error: Field 'good' not found
+Mazama gouazoubira,Savannah deer,74,89,12,error: Field 'good' not found
+Lasiodora parahybana,Salmon pink bird eater tarantula,57,10,51,error: Field 'good' not found
+Nasua narica,White-nosed coatimundi,75,4,33,error: Field 'good' not found
+Tadorna tadorna,Common shelduck,17,94,69,error: Field 'good' not found
+Picoides pubescens,Downy woodpecker,11,43,61,error: Field 'good' not found
+Corvus brachyrhynchos,American crow,70,93,11,error: Field 'good' not found
+Rhea americana,Common rhea,53,59,94,error: Field 'good' not found
+Perameles nasuta,"Bandicoot, long-nosed",4,54,10,error: Field 'good' not found
+Drymarchon corias couperi,Eastern indigo snake,90,56,10,error: Field 'good' not found
+Uraeginthus angolensis,"Waxbill, blue",13,19,12,error: Field 'good' not found
+Colobus guerza,"Colobus, magistrate black",74,68,32,error: Field 'good' not found
+Crotalus adamanteus,Eastern diamondback rattlesnake,57,32,86,error: Field 'good' not found
+Pseudalopex gymnocercus,"Zorro, azara's",87,37,58,error: Field 'good' not found
+Snycerus caffer,"Buffalo, african",69,95,61,error: Field 'good' not found
+Gyps bengalensis,"Vulture, bengal",50,44,73,error: Field 'good' not found
+Axis axis,Spotted deer,88,86,100,error: Field 'good' not found
+Calyptorhynchus magnificus,Red-tailed cockatoo,43,74,15,error: Field 'good' not found
+Capreolus capreolus,Roe deer,50,82,37,error: Field 'good' not found
+Macaca nemestrina,Pig-tailed macaque,1,83,84,error: Field 'good' not found
+Gorilla gorilla,Western lowland gorilla,99,6,29,error: Field 'good' not found
+Pelecanus occidentalis,"Pelican, brown",3,1,22,error: Field 'good' not found
+Papio cynocephalus,Yellow baboon,65,62,72,error: Field 'good' not found
+Ciconia ciconia,European stork,40,71,17,error: Field 'good' not found
+Erethizon dorsatum,North American porcupine,5,95,96,error: Field 'good' not found
+Rhea americana,Gray rhea,39,34,36,error: Field 'good' not found
+Macropus rufogriseus,Red-necked wallaby,39,38,28,error: Field 'good' not found
+Phoca vitulina,Common seal,18,8,44,error: Field 'good' not found
+Macropus fuliginosus,"Kangaroo, black-faced",99,16,28,error: Field 'good' not found
+Ateles paniscus,Black spider monkey,19,21,98,error: Field 'good' not found
+Myrmecophaga tridactyla,"Anteater, giant",66,45,35,error: Field 'good' not found
+Isoodon obesulus,"Bandicoot, southern brown",86,47,8,error: Field 'good' not found
+Castor canadensis,American beaver,7,70,36,error: Field 'good' not found
+Ara macao,"Macaw, scarlet",7,61,4,error: Field 'good' not found
+Parus atricapillus,Black-capped chickadee,65,36,91,error: Field 'good' not found
+Chordeiles minor,Common nighthawk,2,2,37,error: Field 'good' not found
+Ratufa indica,"Squirrel, indian giant",39,19,88,error: Field 'good' not found
+Microcebus murinus,Lesser mouse lemur,69,99,2,error: Field 'good' not found
+Pelecanus conspicillatus,Australian pelican,22,33,75,error: Field 'good' not found
+Orcinus orca,"Whale, killer",82,77,96,error: Field 'good' not found
+Elephas maximus bengalensis,Asian elephant,86,36,28,error: Field 'good' not found
+Bucephala clangula,"Goldeneye, barrows",51,60,36,error: Field 'good' not found
+Phalacrocorax brasilianus,"Cormorant, neotropic",96,36,53,error: Field 'good' not found
+Sylvilagus floridanus,"Rabbit, eastern cottontail",41,47,74,error: Field 'good' not found
+Tadorna tadorna,"Shelduck, european",68,91,95,error: Field 'good' not found
+Tragelaphus angasi,Nyala,20,85,34,error: Field 'good' not found
+Acrantophis madagascariensis,Eastern boa constrictor,23,44,43,error: Field 'good' not found
+Uraeginthus granatina,Violet-eared waxbill,91,59,79,error: Field 'good' not found
+Chlidonias leucopterus,"Tern, white-winged black",27,1,77,error: Field 'good' not found
+Dacelo novaeguineae,Laughing kookaburra,70,69,94,error: Field 'good' not found
+Smithopsis crassicaudata,"Dunnart, fat-tailed",93,27,9,error: Field 'good' not found
+Heloderma horridum,Mexican beaded lizard,35,14,95,error: Field 'good' not found
+Potorous tridactylus,Potoroo,40,95,41,error: Field 'good' not found
+Milvus migrans,"Kite, black",79,49,72,error: Field 'good' not found
+Amphibolurus barbatus,Western bearded dragon,84,98,71,error: Field 'good' not found
+Haliaetus leucogaster,"Eagle, white-bellied sea",8,8,70,error: Field 'good' not found
+Hippopotamus amphibius,Hippopotamus,17,5,24,error: Field 'good' not found
+Chelodina longicollis,Snake-necked turtle,96,85,30,error: Field 'good' not found
+Ara ararauna,"Macaw, blue and gold",78,38,29,error: Field 'good' not found
+Haliaeetus leucocephalus,Bald eagle,47,35,15,error: Field 'good' not found
+Zosterops pallidus,"White-eye, cape",41,71,51,error: Field 'good' not found
+Francolinus swainsonii,"Francolin, swainson's",78,55,67,error: Field 'good' not found
+Pseudocheirus peregrinus,"Possum, ring-tailed",26,24,17,error: Field 'good' not found
+Pituophis melanaleucus,Pine snake (unidentified),48,51,28,error: Field 'good' not found
+Tachyglossus aculeatus,"Echidna, short-beaked",51,19,87,error: Field 'good' not found
+Macaca radiata,Bonnet macaque,85,63,64,error: Field 'good' not found
+Leptoptilos crumeniferus,Marabou stork,13,29,98,error: Field 'good' not found
+Casmerodius albus,"Egret, great",87,35,10,error: Field 'good' not found
+Galago crassicaudataus,Large-eared bushbaby,55,94,91,error: Field 'good' not found
+Streptopelia senegalensis,"Dove, little brown",59,24,34,error: Field 'good' not found
+Haematopus ater,"Oystercatcher, blackish",98,10,30,error: Field 'good' not found
+Felis silvestris lybica,"Cat, african wild",11,57,53,error: Field 'good' not found
+Agelaius phoeniceus,Red-winged blackbird,10,49,23,error: Field 'good' not found
+Spizaetus coronatus,Crowned hawk-eagle,45,49,76,error: Field 'good' not found
+Echimys chrysurus,White-faced tree rat,63,27,32,error: Field 'good' not found
+Rangifer tarandus,Reindeer,27,68,63,error: Field 'good' not found
+Alopex lagopus,Blue fox,98,18,38,error: Field 'good' not found
+Cathartes aura,Turkey vulture,24,23,70,error: Field 'good' not found
+Phalacrocorax niger,Javanese cormorant,15,64,3,error: Field 'good' not found
+Gyps bengalensis,"Vulture, oriental white-backed",16,99,55,error: Field 'good' not found
+Ara ararauna,"Macaw, blue and yellow",39,60,23,error: Field 'good' not found
+Phoenicopterus ruber,"Flamingo, greater",68,97,64,error: Field 'good' not found
+Genetta genetta,Common genet,28,65,27,error: Field 'good' not found
+Tamiasciurus hudsonicus,"Squirrel, red",77,30,6,error: Field 'good' not found
+Coluber constrictor,"Snake, racer",48,23,4,error: Field 'good' not found
+Funambulus pennati,"Squirrel, palm",85,25,31,error: Field 'good' not found
+Bubalornis niger,"Weaver, red-billed buffalo",31,12,35,error: Field 'good' not found
+Trachyphonus vaillantii,Crested barbet,47,38,6,error: Field 'good' not found
+Motacilla aguimp,"Wagtail, african pied",82,88,65,error: Field 'good' not found

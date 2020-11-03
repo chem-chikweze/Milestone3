@@ -20,12 +20,13 @@ if ($conn->query($sql) === TRUE) {
 }
 
 // Query:
-$CONSUMERID = $_POST['CONSUMERID'];
-$PHONE = $_POST['PHONE'];
+$FARMID = $_POST['FARMID'];
 $NAME = $_POST['NAME'];
 $ADDRESS = $_POST['ADDRESS'];
-$AGE = $_POST['AGE'];
-$sql = "INSERT INTO CONSUMER values ('$CONSUMERID', '$PHONE', '$NAME', '$ADDRESS', '$AGE')";
+$IFPLANT = $_POST['IFPLANT'];
+$IFANIMAL = $_POST['IFANIMAL'];
+$IFBOTH = $_POST['IFBOTH'];
+$sql = "INSERT INTO FARM values ('$FARMID', '$NAME', '$ADDRESS', '$IFPLANT', '$IFANIMAL', '$IFBOTH')";
 
 
 #$sql = "SELECT * FROM Students where Username like 'amai2';";
