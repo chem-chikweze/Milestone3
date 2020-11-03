@@ -38,6 +38,7 @@ if ($result === TRUE) {
 //$stmt->bind_param("s", $username);
 //$result = $stmt->execute();
 //$result = $conn->query($sql);
+
 ?>
 
 <?php

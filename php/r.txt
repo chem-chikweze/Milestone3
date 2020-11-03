@@ -1,0 +1,39 @@
+Forms: 
+
+Add a new farmer:
+http://betaweb.csug.rochester.edu/~cchikwez/add_farmer.html
+
+Add a new farm:
+http://betaweb.csug.rochester.edu/~cchikwez/add_farm.html
+
+Add a new animal:
+http://betaweb.csug.rochester.edu/~cchikwez/add_animal.html
+
+Add a new cart:
+http://betaweb.csug.rochester.edu/~cchikwez/add_cart.html
+
+
+Remove a farmer:
+http://betaweb.csug.rochester.edu/~cchikwez/del_farmer.html
+
+Remove a farm:
+http://betaweb.csug.rochester.edu/~cchikwez/add_farm.html
+
+Remove a animal:
+http://betaweb.csug.rochester.edu/~cchikwez/del_animal.html
+
+Remove a cart:
+http://betaweb.csug.rochester.edu/~cchikwez/del_cart.html
+
+
+Find a farmer:
+http://betaweb.csug.rochester.edu/~cchikwez/find_farmer.html
+
+Find a farm:
+http://betaweb.csug.rochester.edu/~cchikwez/find_farm.html
+
+Find a animal:
+http://betaweb.csug.rochester.edu/~cchikwez/find_animal.html
+
+Find a cart:
+http://betaweb.csug.rochester.edu/~cchikwez/find_cart.html
